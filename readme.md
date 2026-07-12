@@ -29,9 +29,7 @@ Si deseas ejecutar este proyecto localmente, sigue estos pasos:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [Link_de_tu_repositorio_de_GitHub]
-   cd [Nombre_de_la_carpeta]
-   ```
+   git clone https://github.com/Robert1709glch/Mailer.git
 
 2. **Crear e iniciar el entorno virtual**
     ```bash
