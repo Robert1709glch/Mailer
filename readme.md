@@ -1,12 +1,12 @@
 # [Nombre del Proyecto / Ejemplo: Aplicación de Envíos con Flask]
 
-Este es un proyecto práctico desarrollado como parte de mi aprendizaje en Python y desarrollo web. La aplicación permite gestionar [menciona brevemente qué hace, ej: el registro de usuarios y envío de notificaciones por correo].
+Este es un proyecto práctico desarrollado como parte de mi aprendizaje en Python y desarrollo web. La aplicación permite gestionar envios de correos electronicos con un filtro de busqueda.
 
 ---
 
 ## 📚 Créditos y Origen
 
-Este proyecto fue construido siguiendo las bases del curso **"[Nombre del Curso Aquí]"** impartido por **[Nombre del Profesor o Plataforma, ej: Udemy, Alura, Código Facilito]**. 
+Este proyecto fue construido siguiendo las bases del curso **"Python sin fronteras: HTML, CSS, Flask y MySQL"** impartido por **Nicolas Schurmann**. 
 
 Agradezco al instructor por el material y las explicaciones. Como parte de mi toque personal y mejora del proyecto, implementé los siguientes cambios respecto al curso original:
 * Migración del motor de correos de SendGrid a **Resend** para optimizar el proceso de envío y autenticación.
